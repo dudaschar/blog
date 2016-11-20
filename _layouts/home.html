@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+<div class="tech-no">
+  <!-- technology-top -->
+   {% if paginator.page == 1 %}
+     {% for post in paginator.posts limit:1 %}
+     <div class="tc-ch wow fadeInDown"  data-wow-duration=".8s" data-wow-delay=".2s">
+
+        <div class="tch-img">
+          <a href="{{ post.url }}"><img src="/assets/images/posts/{{ post.image }}" class="img-responsive" alt=""></a>
+        </div>
+
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <h6>{{ post.date | date_to_string }}</h6>
+          {{ post.excerpt }}
+          <div class="bht1">
+            <a href="{{ post.url }}">Continue lendo</a>
+          </div>
+          <div class="soci">
+            <ul>
+              <li class="hvr-rectangle-out"><a class="fb" href="#"></a></li>
+              <li class="hvr-rectangle-out"><a class="twit" href="#"></a></li>
+              <li class="hvr-rectangle-out"><a class="goog" href="#"></a></li>
+              <li class="hvr-rectangle-out"><a class="pin" href="#"></a></li>
+              <li class="hvr-rectangle-out"><a class="drib" href="#"></a></li>
+            </ul>
+          </div>
+          <div class="clearfix"></div>
+    </div>
+    {% endfor %}
+    <div class="clearfix"></div>
+
+    <!-- technology-top -->
+    <!-- technology-top -->
+    <div class="w3ls">
+      {% for post in paginator.posts offset:1 limit:2 %}
+      <div class="col-md-6 w3ls-left wow fadeInDown"  data-wow-duration=".8s" data-wow-delay=".2s">
+         <div class="tc-ch">
+          <div class="tch-img">
+            <a href="{{ post.url }}">
+            <img src="/assets/images/posts/{{ post.image }}" class="img-responsive" alt=""></a>
+          </div>
+
+          <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <h6>{{ post.date | date_to_string }}</h6>
+            {{ post.excerpt }}
+            <div class="bht1">
+              <a href="{{ post.url }}">Leia mais</a>
+            </div>
+            <div class="soci">
+              <ul>
+                <li class="hvr-rectangle-out"><a class="fb" href="#"></a></li>
+                <li class="hvr-rectangle-out"><a class="pin" href="#"></a></li>
+              </ul>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+      </div>
+      {% endfor %}
+      <div class="clearfix"></div>
+    </div>
+
+    {% for post in paginator.posts offset:3 %}
+    {% include post_excerpt_box.html post=post %}
+    {% endfor %}
+  {% else %}
+    {% for post in paginator.posts %}
+    {% include post_excerpt_box.html post=post %}
+    {% endfor %}
+  {% endif %}
+  </div>
+
+  <div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Página Anterior</a> &middot;
+  {% endif %}
+  <span class="page_number ">Página: {{ paginator.page }} de {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+     &middot; <a href="{{ paginator.next_page_path }}" class="next">Próxima Página</a>
+  {% endif %}
+</div>

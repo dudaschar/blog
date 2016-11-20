@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h2 class="w3">{{ page.title }}</h2>
+<div class="single">
+  {% if page.image %}
+	<img src="/assets/images/posts/{{ page.image }}" class="img-responsive" alt="">
+  {% endif %}
+	<div class="b-bottom main-content">
+		{{ content }}
+	</div>
+</div>
+
+<div class="clearfix"></div>

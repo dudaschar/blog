@@ -1,0 +1,25 @@
+<div class="wthree">
+   <div class="col-md-6 wthree-left wow fadeInDown"  data-wow-duration=".8s" data-wow-delay=".2s">
+    <div class="tch-img">
+        <a href="{{ post.url }}"><img src="/assets/images/posts/{{ post.image }}" class="img-responsive" alt=""></a>
+      </div>
+   </div>
+   <div class="col-md-6 wthree-right wow fadeInDown"  data-wow-duration=".8s" data-wow-delay=".2s">
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <h6>{{ post.date | date_to_string }}</h6>
+        <p>{{ post.excerpt }}</p>
+        <div class="bht1">
+          <a href="{{ post.url }}">Leia mais</a>
+        </div>
+        <div class="soci">
+          <ul>
+
+            <li class="hvr-rectangle-out"><a class="twit" href="#"></a></li>
+            <li class="hvr-rectangle-out"><a class="pin" href="#"></a></li>
+          </ul>
+        </div>
+        <div class="clearfix"></div>
+
+   </div>
+    <div class="clearfix"></div>
+</div>

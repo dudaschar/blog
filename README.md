@@ -59,6 +59,17 @@ Por último, para colocar títulos dentro do post, usa-se cerquilhas (`#`) no co
 ###### Título h6
 ```
 
+Por último, para aplicar uma classe em um parágrafo, usa-se a sintaxe abaixo. Isso pode ser usado para centralizar texto ou uma imagem, por exemplo.
+
+```md
+Um paragrafo normal, alinhado a direita. 
+
+{: .text-center }
+Um pargrafo centralizado. Note que a classe .text-center é definida no CSS.
+
+Um paragrafo normal, novamente, não mais afetado pela classe acima.
+```
+
 Dica: esse README é escrito em Markdown. Olha o código fonte dele para entender mais, clicando no arquivo na lista de arquivos do GitHub e depois no botão "Raw".
 
 ## Criando uma página

@@ -1358,13 +1358,13 @@ ul.nav.nav-pills {
 /*-- /single--*/
 p.sub, .main-content p {
     line-height: 1.6em;
-    font-size: 1.2em;
-    color: #777;
+    font-size: 1em;
+    color: #303030;
 	margin-bottom: 1em;	
 }
 
 .imgPost img {
-	margin-bottom: 15px;
+	margin-bottom: 10px;
 }
 
 .main-content img {

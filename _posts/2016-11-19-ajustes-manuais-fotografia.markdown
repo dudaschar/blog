@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Entendendo sua câmera: ISO, velocidade e abertura"
-date:   2016-11-18 15:00:23 -0300
+date:   2016-11-19 15:00:23 -0300
 categories: 
   - Fototografia
  tags:

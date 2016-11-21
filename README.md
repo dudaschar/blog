@@ -1,6 +1,6 @@
 # dudseofusca.com
 
-Esse é o guia de uso do blog Duds e o Fusca, que roda no Jekyll, feito pelo melhor namorado do mundo.
+Esse é o guia de uso do blog Duds e o Fusca, que roda no Jekyll, escrito pelo melhor namorado do mundo.
 
 ## Escrevendo um post
 
@@ -36,6 +36,7 @@ Depois do Front Matter, pode escrever o texto do post em Markdown. Separa-se par
 Para inserir um link, usa-se a sintaxe: `[Texto do link](http://www.site.com)`. Já para inserir uma imagem, a sintaxe é a mesma, mas com uma exclamação na frente: `![Texto alternativo para a imagem](http://www.site.com/imagem.jpg)`. Se a imagem for hospedada no próprio blog, basta colocar o caminho abolsuto dela, como `![Delicia Joy](/assets/images/posts/delicia-joy.png)`.
 
 Para fazer listas, numeradas ou não, usa-se a sintaxe:
+
 ```md
 - Item de bolinha
 - Outro item
@@ -46,6 +47,19 @@ Para fazer listas, numeradas ou não, usa-se a sintaxe:
 4. O numero do item não precisa ser o número verdadeiro dele
 1. Poderia ser todos o número "1.". No HTML, vai ficar numerado em sequencia corretamente.
 ```
+
+Por último, para colocar títulos dentro do post, usa-se cerquilhas (`#`) no começo  da linha. Cada cerquilha define o nível do título, que mapeia para as tags `<hN>` do HTML
+
+```md
+# Título h1
+## Título h2
+### Título h3
+#### Título h4
+##### Título h5
+###### Título h6
+```
+
+Dica: esse README é escrito em Markdown. Olha o código fonte dele para entender mais, clicando no arquivo na lista de arquivos do GitHub e depois no botão "Raw".
 
 ## Criando uma página
 

@@ -1363,8 +1363,9 @@ p.sub, .main-content p {
 	margin-bottom: 1em;	
 }
 
-.imgPost img {
+img.imgPost {
 	margin-bottom: 10px;
+	width: 100%;
 }
 
 .main-content img {

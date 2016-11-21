@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Aprenda a usar o fotômetro da sua câmera"
-excerpt: "<p>Sabe aquela sensação de ganhar um equipamento novo e querer conhecer tudinho dele?  Quando a gente ganha, ou compra, uma câmera nova já queremos sair clicando tudo que vem pela frente e mexer nos modos manuais.</p>"
 date: 2016-11-20 15:00:00 -0300
 categories:
   - fotografia
@@ -13,7 +12,7 @@ image: como-usar-fotometro.jpg
 
 Sabe aquela sensação de ganhar um equipamento novo e querer conhecer tudinho dele?  Quando a gente ganha, ou compra, uma câmera nova já queremos sair clicando tudo que vem pela frente e mexer nos modos manuais. Para que a foto saia perfeita é preciso conhecer bem o fotômetro, que nada mais é do que uma régua que indica a iluminação da foto.
 
-Vários fatores podem deixar a imagem mais escura ou clara, entre eles estão o ISO, velocidade e diafragma. A mudança dos indíces de cada uma dessas  funções faz com que a imagem fique mais clara ou escura, é importante observar o fotômetro para saber o que deve ser alterado.
+Vários fatores podem deixar a imagem mais escura ou clara, entre eles estão o [ISO, velocidade e diafragma](http://dudseofusca.com/ajustes-manuais-fotografia/). A mudança dos indíces de cada uma dessas  funções faz com que a imagem fique mais clara ou escura, é importante observar o fotômetro para saber o que deve ser alterado.
 
 ![Como usar fotômetro](/assets/images/posts/como-usar-fotometro2.jpg)
 

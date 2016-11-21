@@ -7,7 +7,6 @@ categories:
 tags:
   - Câmera Fotográfica
   - Modo manual
-image: postcamera1.jpg
 ---
 
 ![Como usar fotômetro](/assets/images/posts/postcamera1.jpg)

@@ -4,9 +4,6 @@ title: "Aprenda a usar o fotômetro da sua câmera"
 date: 2016-11-20 15:00:00 -0300
 categories:
   - fotografia
-tags:
-  - câmera fotográfica
-  - fotômetro
 image: como-usar-fotometro.jpg
 ---
 

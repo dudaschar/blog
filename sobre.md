@@ -4,4 +4,4 @@ title: Sobre
 permalink: /sobre/
 ---
 
-!(Foto de perfil)[/assets/images/perfilBottom.jpg]
+![Foto de perfil](/assets/images/perfilBottom.jpg)

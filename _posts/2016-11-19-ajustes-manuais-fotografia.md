@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Entendendo sua câmera: ISO, velocidade e abertura"
+excerpt: "<p>ISO significa a sensibilidade a luz da câmera, quanto maior o número do ISO mais luz entra na lente e quanto menor, menos luz. Sabe aquelas fotos cheias de ruído? O responsável por isso é o ISO. Um ISO muito alto trás muito ruído para a imagem, o ideal é que ele fique ente 400 e 800 (para noite).</p>
 date: 2016-11-19 15:00:23 -0300
 categories: 
   - Fototografia

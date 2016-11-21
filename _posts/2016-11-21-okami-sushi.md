@@ -9,7 +9,7 @@ image: okami2.jpg
 
 Uma das minhas comidas favoritas é a japonesa! Comecei a comer quando tinha mais ou menos 4 anos e lembro do primeiro restaurante que a minha mãe me levou, era na praça de alimentação do Shopping Plaza antes da reforma. Depois dele comecei a frequentar o antigo Tokyo no Espinheiro, que (infelizmente) acabou fechando pouco antes de sushi virar modinha em Recife.
 
-A questão é que eu gosto bastante e sushi e sempre que posso conheço novos lugares, ultimamente andei visitando vários! Hoje eu vou falar sobre o mais recente que eu fui, o Okami Sushi. Ele fica localizado na Barão de Souza Leão, já no finalzinho de Boa Viagem, em uma galeria e tem estacionamento fácil. Eu já tinha visto várias propagandas no facebook e uma amiga próxima já tinha me chamado várias vezes pra ir, noite de sábado e eu pensei: por que não?
+A questão é que eu gosto bastante de sushi e sempre que posso conheço novos lugares, ultimamente andei visitando vários! Hoje eu vou falar sobre o mais recente que eu fui, o Okami Sushi. Ele fica localizado na Barão de Souza Leão, já no finalzinho de Boa Viagem, em uma galeria e tem estacionamento fácil. Eu já tinha visto várias propagandas no Facebook e uma amiga próxima já tinha me chamado várias vezes pra ir, noite de sábado e eu pensei: por que não?
   
 Fui com o meu namorado e chegando lá fizemos o pedido, passado um tempinho as primeiras coisas que chegaram foram essas da foto acima. Olhei com um pouco de desconfiança pro temaki, então fui direto no uramaki... Estava gelado e o arroz meio durinho, como se tivesse sido feito de tarde. O salmão não estava tão fresco e todas as frituras estavam frias. Já deu pra imaginar o flop, não é?
   

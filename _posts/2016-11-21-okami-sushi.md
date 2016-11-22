@@ -13,7 +13,7 @@ A questão é que eu gosto bastante de sushi e sempre que posso conheço novos l
   
 Fui com o meu namorado e chegando lá fizemos o pedido, passado um tempinho as primeiras coisas que chegaram foram essas da foto acima. Olhei com um pouco de desconfiança pro temaki, então fui direto no uramaki... Estava gelado e o arroz meio durinho, como se tivesse sido feito de tarde. O salmão não estava tão fresco e todas as frituras estavam frias. Já deu pra imaginar o flop, não é?
   
-![Temaki da propaganda](/assets/images/posts/okami2.jpg)
+![Temaki da propaganda](/assets/images/posts/okami1.jpg)
   
 Infelizmente essa foto acima não foi o nosso prato, ela é do mesmo temaki de camarão empanado que eu pedi, só que da página do restaurante. Quando vimos que a comida não estava fresca, e que mesmo assim demorou, pedimos para cancelar o rodizio e fomos ao Gashi. Ele é um dos meus rodízios favoritos, mas esse aí fica para uma outra postagem. Voltando um pouco para o rodízio do Okami, ele é um pouco limitado e se não me falha a memória as porções eram as seguintes: 2 temakis, 4 niguiris e 4 especiais por pessoa. Mas pelo o preço, já era de se esperar a limitação.
   

@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Teste: Funk ou Heavy Metal?
-date: 2016-11-20 10:00:00 -0300
+title:  "Teste: Funk ou Heavy Metal?"
+date:   2016-11-20 12:56:23 -0300
+categories:
+  - Música
 image: funkouheavymetal.jpg
 ---
 

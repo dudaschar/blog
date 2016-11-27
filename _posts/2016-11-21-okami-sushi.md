@@ -4,7 +4,7 @@ title:  "Review: Comida japonesa no Okami"
 date:   2016-11-21 19:00:00 -0300
 categories:
   - Culinária
-image: okami5.jpg
+image: okami2.jpg
 ---
 
 Uma das minhas comidas favoritas é a japonesa! Comecei a comer quando tinha mais ou menos 4 anos e lembro do primeiro restaurante que a minha mãe me levou, era na praça de alimentação do Shopping Plaza antes da reforma. Depois dele comecei a frequentar o antigo Tokyo no Espinheiro, que (infelizmente) acabou fechando pouco antes de sushi virar modinha em Recife.

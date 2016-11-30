@@ -74,7 +74,7 @@ Ah, além disso, no workshop eu ainda abordo estratégias de **aquisição, rete
 <p class="centerAlign">
 	<input type="text" class="emailTxt" id="nameInput" placeholder="Nome"><br>
 	<input type="text" class="emailTxt" id="emailInput" placeholder="Email"><br>
-	<button class="sendButton" id="sendBtn">Download</button></p>
+	<button class="sendButton" id="sendBtn">Enviar</button></p>
 
 <div class="download hidden" id="downloadDiv">
 	<p class="centerAlign"><a class="downloadA" href="http://dudseofusca.com/arquivos/bmcanvas_dudseofusca.pdf">Clique para fazer download</a></p>
@@ -93,9 +93,11 @@ Ah, além disso, no workshop eu ainda abordo estratégias de **aquisição, rete
   firebase.initializeApp(config);
 
 var download = document.querySelector('#downloadDiv')
+var button = document.querySelector('#sendBtn')
 
 document.querySelector('#sendBtn').addEventListener('click', function() {
  	download.classList.remove('hidden');
+	button.classList.add('hidden');
  });
 
 var name = document.querySelector('#nameInput')

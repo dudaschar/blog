@@ -24,7 +24,7 @@ Fonte: [Sebrae](http://www.sebrae.com.br/sites/PortalSebrae/bis/quadro-de-modelo
 Ah, além disso, no workshop eu ainda abordo estratégias de **aquisição, retenção e monetização de usuários**. E aí, não dá para perder essa!
 
 ### Faça o download gratuito!
-<br><br>
+<br>
 <style>
 		.emailTxt {
 			border: 1px solid #34EE8A;

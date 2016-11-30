@@ -14,7 +14,7 @@ Como eu sempre tive contato com algumas blogueiras, decidi aproveitar esse conhe
 O workshop é direcionado para o estrutura de um business model canvas e como preenchê-lo. Para isso, você deve entender que o seu blog é a sua empresa e que todas as áreas do canvas são relativas ao funcionamento dele. Confira a definição de canvas ;)
 
 ### Business Model Canvas
-
+<br>
 A ferramenta chamada de Quadro de Modelo de Negócios (Business Model Canvas), criada por Alex Osterwalder e Yves Pigneur, serve para planejar e visualizar as principais funções de um negócio e suas relações.
 
 Ao fornecer uma visão holística e flexível do modelo de negócios, o Quadro auxilia os empreendedores nos processos de criação, diferenciação e inovação, aprimorando seu modelo de negócios para conquistar mais clientes e lucros.
@@ -24,8 +24,7 @@ Fonte: [Sebrae](http://www.sebrae.com.br/sites/PortalSebrae/bis/quadro-de-modelo
 Ah, além disso, no workshop eu ainda abordo estratégias de **aquisição, retenção e monetização de usuários**. E aí, não dá para perder essa!
 
 ### Faça o download gratuito!
-
-
+<br><br>
 <style>
 		.emailTxt {
 			border: 1px solid #34EE8A;

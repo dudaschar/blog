@@ -12,4 +12,4 @@ Entrar em contato comigo é muito fácil! Você pode deixar um comentário nas p
   - [Facebook pessoal](https://www.facebook.com/dudssacarrosti)
   - [Twitter](https://twitter.com/dudssacarrosti)
   - [Instagram](https://www.instagram.com/dudssacarrosti/)
-  - <eduardascharnhorst@gmail.com>
+  - <contato@dudseofusca.com>

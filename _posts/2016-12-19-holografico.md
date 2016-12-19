@@ -4,14 +4,16 @@ title:  "Onde comprar roupas holográficas"
 date:   2016-12-19 19:20:23 -0300
 categories:
   - Moda
-image: roupasholograficas.jpg
+image: sapatoholografico.jpg
 ---
 
 Eu tenho uma paixão por coisas com glitter, o amor é real mesmo! Por causa disso, sempre gostei de coisas com brilho diferente e quando vi as primeiras coisas com efeito holográfico foi amor na hora, logo ei já queria saber onde encontrar roupas holográficas.
 
 Lá em 2013 eu já procurava esmaltes holográficos (tenho até hoje) e eram as únicas coisas que eu achava com o efeito, mas graças à invasão dos unicórnios e sereias (quero todos, inclusive sou) na moda os produtos com essa pegada ficaram bem mais frequentes. 
 
-Nesse mega look do dia (hahah) no topo do post eu trago algumas peças que já encontrei nas minhas andanças e em um segundo post vou trazer uma wishlist de produtos que encontrei online.
+Nesse mega look do dia (hahah) trago algumas peças que já encontrei nas minhas andanças e em um segundo post vou trazer uma wishlist de produtos que encontrei online.
+
+![roupas holográficas](assets/images/posts/roupasholograficas.jpg)
 
 ###1. Blusa cacto holográfico  
 Essa blusa foi a minha primeira peça de roupa com a estampa, foi bem engraçado o dia que eu a encontrei. Tinha ido no shopping com a minha mãe procurar alguma roupa para o fim de ano e não encontrava nada que gostasse. Quando sai de uma loja virei para ela e disse: "Queria alguma roupa holográfica ou mais futurista", a loga seguinte que entrei foi a Riachuelo e encontrei essa beleza aí!  

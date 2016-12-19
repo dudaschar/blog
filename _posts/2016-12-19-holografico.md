@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Onde comprar roupas holográficas"
-date:   2016-12-6 19:20:23 -0300
+date:   2016-12-19 19:20:23 -0300
 categories:
   - Moda
 image: roupasholograficas.jpg

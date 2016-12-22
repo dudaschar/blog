@@ -12,11 +12,11 @@ Unicórnios, sereias e coisas holográficas viraram uma paixão, não é mesmo? 
 Alguns anos atrás era impossível encontrar tão rapidamente tendências assim nas lojas, ou você comprava online bem caro aqui no Brasil, ou esperava meses pelos sites internacionais. No último post eu mostrei as [minhas peças holográficas](http://dudseofusca.com/holografico/) e prometi uma wishlist para comprar online, mas no meio disso encontrei várias peças em um shopping da cidade e decidi fazer esse post logo.
 
 #### Alguns avisos  
-
+<br>
 - Todas as peças foram encontradas no shopping RioMar Recife  
 - Minha visita foi no dia 20, então é provável que alguma peça já tenha esgotado.  
 - Não lembro exatamente de alguns preços, desculpa!
-
+<br><br>
 
 ![Sandália holográfica Renner](/assets/images/posts/dicasholorecife1.jpg)
 
@@ -56,7 +56,7 @@ Essa bolsa me puxou logo pra vitrine da Imaginarium *-* É uma clutch super holo
 ![Acessórios](/assets/images/posts/dicasholorecife9.jpg)
 
 Por fim, alguns acessórios que achei por aí. As cartelinhas de adesivos da Imaginarium estavam disponíveis nos 2 estilos: holográfico ou alto relevo e eram bem baratinhas. Outra lembracinha fofa eram os conjuntos da Emme com vários temas, esse do Oceano é bem mermaid feelings.  
-**R$7,90 Adesivos  **
-**R$25,90 Colar**
+**R$7,90 Adesivos  
+R$25,90 Colar**
 
 Juro que o próximo post sobre a tendência vai ser com dicas online, mas diz aí se não é massa quando a gente encontra coisas na nossa própria cidade!
